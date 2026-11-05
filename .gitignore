@@ -1,0 +1,8 @@
+# Build outputs and local data files
+*.o
+*.out
+*.exe
+solution
+source.txt
+numbered.txt
+inventory.bin
