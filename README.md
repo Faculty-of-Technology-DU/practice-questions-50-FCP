@@ -2,7 +2,7 @@
 
 This repository contains 50 standalone C programming questions designed to develop conceptual understanding through practical problem-solving. Questions progress from basic expressions and control flow to arrays, functions, recursion, files, pointers, dynamic memory, structures, and unions.
 
-Practice these problems at least 5 times each, and get ready for an evaluation containing similar questions on **November 10, 2026**.
+Practice these problems at least 5 times each on your machines on plain Notepad / VI / VIM editors, and get ready for a theory + practical evaluation containing similar questions on **November 10, 2026**.
 
 ---
 
